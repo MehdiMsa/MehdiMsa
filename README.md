@@ -61,9 +61,8 @@
 
 ## 🌟 Certifications
 - IBM AI Analyst
-- Mocking with JUnit
-- Jr. Penetration Tester
-- Intro to Cloud Computing
+- THM Jr. Penetration Tester
+- AWS Cloud Practitioner
 
 ---
 
