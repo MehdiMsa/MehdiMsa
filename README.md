@@ -62,7 +62,6 @@
 ## 🌟 Certifications
 - IBM AI Analyst
 - THM Jr. Penetration Tester
-- AWS Cloud Practitioner
 
 ---
 
